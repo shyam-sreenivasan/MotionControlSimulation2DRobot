@@ -2,6 +2,8 @@
 
 A Python-based 2D robot simulator with LIDAR sensing, RRT* path planning, and multiple autonomous control algorithms.
 
+[🎥 Watch Demo Video](demo.mp4)
+
 ## ✨ Features
 
 - **360° LIDAR Sensor** - Configurable field-of-view and range
